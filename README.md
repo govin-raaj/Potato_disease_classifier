@@ -1,4 +1,4 @@
-Potato Disease Classifier
+## Potato Disease Classifier
 
 A mobile application built with **Flutter** and powered by a **FastAPI backend** to detect potato leaf diseases (Early Blight, Late Blight, Healthy) using a trained TensorFlow model.
 
