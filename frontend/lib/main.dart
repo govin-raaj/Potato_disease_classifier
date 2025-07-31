@@ -44,7 +44,7 @@ class _PotatoPredictorState extends State<PotatoPredictor> {
 
     final request = http.MultipartRequest(
       "POST",
-      Uri.parse("http://192.168.1.9:7777/predict"), 
+      Uri.parse(""), 
     );
 
     request.files
