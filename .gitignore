@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.env
+*.env
+*.sqlite3
+*.db
+.DS_Store
+
+# VSCode
+.vscode/
+.idea/
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub-cache/
+.pub/
+
+# Android/iOS build outputs
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/build/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+ios/Flutter/Generated.xcconfig
+ios/build/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.framework
+macos/Flutter/App.framework
+macos/build/
+
+# Generated files
+*.lock
+*.iml
+
+# Sensitive files
+*.keystore
+google-services.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
